@@ -1,2 +1,2 @@
 # africa
-A basic introduction into the beautiful Land of Africa
+A basic introduction into the beautiful Land of Africa.
