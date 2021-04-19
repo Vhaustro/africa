@@ -1,2 +1,2 @@
-# africa
+# Africa
 A website about Africa
