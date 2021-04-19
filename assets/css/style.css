@@ -1,0 +1,43 @@
+body{
+    font-family: 'MuseoModerno', cursive;
+    color: black;
+    font-size: 17px;
+    align-content: stretch;
+    background-image: linear-gradient(to right bottom, #4568dc, #0081e8, #0097ec, #00aaeb, #00bce6, #00bee6, #00c0e7, #00c2e7, #00b5ec, #00a7ef, #3398ed, #5b86e5);
+}
+    
+h1{
+    font-family: 'Piedra', cursive;
+}
+h3{
+    font-family: 'Piedra', cursive;
+    font-size: 20px;
+}
+
+.heada a{
+    color: black;
+    word-spacing: inherit;
+    text-decoration: none;
+}
+
+.heada a:hover {
+    cursor: pointer;
+}
+
+.nav-menu a {
+    color: black;
+    cursor: pointer;
+    word-spacing: inherit;
+    text-decoration: none;
+}
+
+.nav-menu a:hover {
+    color: white;
+    transition: .3s ease-in-out;
+    text-decoration: none;
+}
+
+.foota {
+    text-align: right;
+    
+}
