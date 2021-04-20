@@ -3,7 +3,7 @@ body{
     color: black;
     font-size: 17px;
     align-content: stretch;
-    background-image: linear-gradient(to right bottom, #4568dc, #0081e8, #0097ec, #00aaeb, #00bce6, #00bee6, #00c0e7, #00c2e7, #00b5ec, #00a7ef, #3398ed, #5b86e5);
+    background-image: linear-gradient(to right bottom, #fdfad3, #d9f6d1, #b5f0da, #98e7ea, #8edaf7, #a0d2ff, #c1c6ff, #e4b9f3, #ffb3da, #ffb5b5, #ffc292, #fdd67d);
 }
     
 h1{
@@ -37,7 +37,13 @@ h3{
     text-decoration: none;
 }
 
+.linky a {
+    color: black;
+    text-decoration: none;
+}
+
 .foota {
     text-align: right;
     
 }
+
